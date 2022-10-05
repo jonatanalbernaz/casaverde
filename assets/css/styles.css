@@ -1,0 +1,19 @@
+/* Importanto variáveis */
+@import url("base/_variaveis.css");
+
+/* Importando componentes */
+@import url("componentes/_botoes.css");
+@import url("componentes/_input.css");
+
+body {
+  font-family: var(--fonte-corpo);
+  font-size: var(--tamanho-corpo);
+
+  background: url(../img/fundo-textura.png), url(../img/fundo-linhas.png);
+  background-position: center;
+}
+
+.container {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
