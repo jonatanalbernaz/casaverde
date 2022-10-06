@@ -6,6 +6,8 @@
 @import url("componentes/_input.css");
 @import url("componentes/_cartao.css");
 @import url("componentes/_item.css");
+@import url("componentes/_produto.css");
+
 
 body {
   font-family: var(--fonte-corpo);
@@ -25,7 +27,7 @@ body {
   font-size: var(--tamanho-titulo);
 }
 
-.titulo-destaque {
+.titulo--destaque {
   font-family: var(--familia-titulo-destaque);
   color: var(--preto);
   font-size: var(--tamanho-titulo-destaque);
