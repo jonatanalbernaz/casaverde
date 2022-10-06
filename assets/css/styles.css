@@ -5,6 +5,7 @@
 @import url("componentes/_botoes.css");
 @import url("componentes/_input.css");
 @import url("componentes/_cartao.css");
+@import url("componentes/_item.css");
 
 body {
   font-family: var(--fonte-corpo);
