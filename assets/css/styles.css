@@ -9,6 +9,7 @@
 @import url("componentes/_produto.css");
 @import url("componentes/_video.css");
 @import url("componentes/_cabecalho.css");
+@import url("componentes/_rodape.css");
 
 body {
   font-family: var(--fonte-corpo);
