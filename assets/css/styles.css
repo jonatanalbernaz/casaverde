@@ -7,7 +7,8 @@
 @import url("componentes/_cartao.css");
 @import url("componentes/_item.css");
 @import url("componentes/_produto.css");
-
+@import url("componentes/_video.css");
+@import url("componentes/_cabecalho.css");
 
 body {
   font-family: var(--fonte-corpo);
