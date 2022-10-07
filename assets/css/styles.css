@@ -1,3 +1,5 @@
+@import url("reset.css");
+
 /* Importanto variáveis */
 @import url("base/_variaveis.css");
 
@@ -10,6 +12,10 @@
 @import url("componentes/_video.css");
 @import url("componentes/_cabecalho.css");
 @import url("componentes/_rodape.css");
+
+@import url("../css/chamada.css");
+@import url("../css/como-conseguir.css");
+@import url("../css/ofertas.css");
 
 body {
   font-family: var(--fonte-corpo);
